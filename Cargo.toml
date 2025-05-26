@@ -1,0 +1,8 @@
+[package]
+name = "kshell"
+version = "0.1.0"
+authors = ["kranua"]
+edition = "2024"
+
+[dependencies]
+rustyline = "15.0.0"
